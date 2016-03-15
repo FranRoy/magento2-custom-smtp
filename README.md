@@ -1,4 +1,8 @@
 # magento2-custom-smtp
+#Modifications from original module
+<ul>
+<li>Added php ~7.0.0 to requires php versions</li>
+</ul>
 #Features
 <ul>
 <li>Can Setup Custom SMTP</li>
