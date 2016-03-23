@@ -8,6 +8,14 @@
   "type": "magento2-module",
   "minimum-stability": "alpha",
   "version": "1.0.0",
+  "autoload": {
+        "files": [
+            "registration.php"
+        ],
+        "psr-4": {
+            "Emizentech\\Customsmtp\\": ""
+        }
+    },
   "license": [
     "OSL-3.0",
     "AFL-3.0"
